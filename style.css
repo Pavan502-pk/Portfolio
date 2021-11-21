@@ -324,8 +324,8 @@ footer .social_media_icons a i{
 
 /* --------- toggle ---------- */
 .toggle{
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   backdrop-filter: blur(20px);
   border-radius: 15px;
   background: rgba(20, 20, 20, 0.178);
