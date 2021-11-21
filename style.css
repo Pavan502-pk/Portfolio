@@ -343,6 +343,7 @@ footer .social_media_icons a i{
 }
 .toggle .box a i{
   font-size: 18px;
+  overflow:hidden;
 }
 .toggle .box a p{
   font-size: 12px;
