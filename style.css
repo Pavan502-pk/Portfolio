@@ -333,7 +333,7 @@ footer .social_media_icons a i{
   top: 250px;
   right: 10px;
   z-index: 100;
-  flex-direction:column;
+  flex-direction: column-reverse;
   justify-content: space-evenly;
   transition: all .4s;
 }
